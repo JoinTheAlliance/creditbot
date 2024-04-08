@@ -22,7 +22,7 @@
     "@types/node": "^20.11.19",
     "bgent": "^0.0.18",
     "discord-interactions": "^3.4.0",
-    "itty-router": "^4.0.13",
+    "itty-router": "^5.0.9",
     "uuid-by-string": "^4.0.0"
   },
   "devDependencies": {
